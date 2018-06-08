@@ -1,0 +1,13 @@
+<div style="display:none;">
+    <div id="news" class="popup_portfolio" alt="">
+    {% for item in site.data.news %} 
+        <h3>{{ item.header }}
+        </h3>
+        <time>{{ item.date }}
+        </time>
+        <p class="par">{{ item.description }}
+        </p>
+    {% endfor %}
+    </div>
+    
+</div> 

@@ -1,0 +1,44 @@
+
+
+
+
+<div>
+{% for member in site.data.people %}
+    {% if include.category==member.category %}
+        <div class="images_holder"> 
+            {% if member.img_url==null%}
+                <img class="img-circle" style="height: 250px; width: 250px" src="/images/people_img/faceless_man.jpg" alt="">
+            {% else %}
+                <img class="img-circle" style="height: 250px; width: 250px" src="{{ member.img_url }}" alt="">
+            {% endif %}
+        </div>
+        
+        <div class="people">
+            <h3 style="color:white"><span style="font-family: KacstBook;"><b><strong>{{ member.name }}</strong></b><br><br></span>
+            </h3>
+            
+            <span style="font-family: Times New Roman,Times,serif; text-align: justify;">{{ member.description }}<br><br></span>
+            
+            {% if member.email!=null %}
+                <span style="font-family: Times New Roman,Times,serif;"><span style="color:white;">Email ID:</span> {{ member.email }}<br><br></span> 
+            {% endif %}
+    
+            {% if member.ext_url!=null %}
+                <span style="font-family: Times New Roman,Times,serif;">More information available <a class="par" target="_blank" href="{{ member.ext_url }}"><em>here</em></a>
+                </span>
+            {% endif %} 
+
+
+            {% if member.cv_pdf!=null %}
+                <span style="font-family: Times New Roman,Times,serif;"> My Resume can be downloaded <a class="par" target="_blank" href="{{ member.cv_pdf }}"><em>here</em></a>
+                </span>
+            {% endif %}
+        
+        </div>
+            
+        <div class="clear">
+        </div>
+        <p><span><br><br><br></span></p>
+    {% endif %}
+{% endfor %}
+</div>    

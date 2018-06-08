@@ -1,0 +1,19 @@
+- category: leader
+  title: Group Leader
+  url: leader.html
+
+- category: masters
+  title: Masters Students
+  url: masters.html
+
+- category: phds
+  title: PhD Students
+  url: phds.html
+  
+- category: postdocs
+  title: Post-Doctoral Students
+  url: postdocs.html
+  
+- category: alumni
+  title: Alumni
+  url: alumni.html

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]> <html class="oldie" lang="en"> <![endif]-->
+<!--[if IE 9]> <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="en">
+    <!--<![endif]-->
+    <head>
+        <meta content="text/html; charset=utf-8" http-equiv="content-type">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="format-detection" content="telephone=no">
+        <title>{{ page.title }} | {{ site.title }}</title>
+        <link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="css/all.css">
+        <link rel="stylesheet" href="css/screen.css">
+        <!--[if lt IE 9]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>	
+        <![endif]-->
+    </head>
+    <body>
+        <div id="wrapper">
+            <div class="wrapper-holder">
+                <header id="header"> <a class="menu_trigger" href="#">menu</a>
+                    <nav id="nav">
+                        <ul>
+                            {% assign sorted_pages = site.pages | sort: "nav_ord" %}
+                            {% for node in sorted_pages %}
+                                {% if node.group=="navigation" %}
+                                    <li><a {% if node.url == page.url %} class="active" {% endif %} href="{{ node.url }}">{{ node.nav_title }}</a></li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </nav>
+                    {% if page.title=='Nonlinear Dynamics Lab' %}
+                        <h1 class="logo">{{ page.title }}
+                        </h1>
+                    {% endif %}
+                </header>
+            </div>
+            <div class="wrapper-holder grey">
+                <section id="main">
+                    {{ content }}
+                </section>
+            </div>
+        
+        
+            <div style="text-align: center;"><img style="width: 111px; height: 110px;" title="logo" src="images/institute_logo.jpg"><br><a target="_blank" href="http://www.iiserkol.ac.in/"> <strong>D</strong>epartment of <strong>P</strong>hysical <strong>S</strong>ciences <br><span style="font-family: Helvetica,Arial,sans-serif;"><strong>I</strong>ndian <strong>I</strong>nstitute of <strong>S</strong>cience <strong>E</strong>ducation and <strong>R</strong>esearch <strong>K</strong>olkata</span></a>
+            </div>
+            <a target="_blank" href="www.iiserkol.ac.in"> </a>
+        </div>
+        <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+        <script src="js/isotope.pkgd.min.js"></script>
+        <script src="js/cells-by-row.js"></script>
+        <script type="text/javascript" src="js/fancybox/jquery.fancybox.pack.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+    </body>
+</html>
+ 

@@ -1,0 +1,5 @@
+<ul class="{{ include.class }}">
+    {% for cat in include.pages %}
+        <li><a {% if cat.category==include.category %} class="active" {% endif %} href="{{ cat.url }}">{{ cat.title }}</a></li>
+    {% endfor %}
+</ul>
