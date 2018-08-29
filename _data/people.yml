@@ -6,25 +6,25 @@
   ext_url: http://www.researcherid.com/rid/F-8162-2011
 
 - name: Poornima Ramesh
-  category: masters
+  category: alumni
   img_url: "/images/people_img/poornima.jpg"
-  description: I am a Masters student working under the joint supervision of Prof. Banerjee and Dr. Jakob Macke at Forschungszentrum caesar in Bonn, Germany. I use generalized linear models to characterize retinal ganglion cell (RGC) response by fitting these models to experimentally obtained data. The goal is to understand how RGCs behave when they are stimulated with electricity, in order to develop retinal prosthetics. These prosthetics would help alleviate blindness in people with retinal degenerative diseases.
-  email: pr13ms083@iiserkol.ac.in
+  description: I graduated from the BS-MS programme at IISER-Kolkata (with a major in Physics) in 2018. For my Master's thesis, I worked on Generalized Linear Models to characterize retinal ganglion cell (RGC) responses to electrical stimulation.<\br> I am now a PhD student at TU Munich in Germany. My work involves developing computational tools to improve retinal prosthetics for patients with retinal degenerative diseases.
+  email: poornimaramesh1995@gmail.com
   ext_url:  
 
 - name: Srashti Goyal
-  category: masters
+  category: alumni
   img_url: "/images/people_img/srashti.png"
-  description: I am a BS-MS student with the Department of Physical Sciences at IISER-Kolkata. Currently I am working on the bifurcation analysis of a discontinuous or reset-map dynamical system, Izheikevich model of a neuron. My main interest is in the computational modeling and analysis of various physical systems ranging from biophysics to geophysics.
+  description: I have joined at ICTS as a Ph.D. Scholar in 2018. My interest lies in the mathematical and computational modeling of various physical phenomena ranging from Biology to Economy. I did my BS - MS dual degree in physics from IISER Kolkata, 2013 - 2018.<br><br>My master's thesis was in Nonlinear Dynamics, under the guidance of Prof. Soumitro Banerjee. We derived a numerical continuation algorithm for bifurcation analysis of a state jump system, Izheikevich model of a neuron. We also modeled the parabolic bursting waves in the 2D monolayer of cardiac cells using the extended Morris Leccar model.<br><br>Apart from academics, I love music, dancing, trekking, and swimming.
   email: sg13ms144@iiserkol.ac.in
   ext_url:
  
 
 
 - name: Sayantan Majumdar
-  category: masters
+  category: alumni
   img_url: "/images/people_img/sayantan.jpg"
-  description: A BS-MS student in the Department of Physical Sciences working under the supervision of Prof. Banerjee. Studying the nonlinearities in Quantum systems ( Open Quantum Systems ) and the quantum to classical transition for classically nonlinear systems. Currently working on a cross-platform desktop app and a python package which will contain implementations of algorithms usefull for studying piecewise-smooth continuous systems.
+  description: A BS-MS student in the Department of Physical Sciences working under the supervision of Prof. Banerjee. Studying the nonlinearities in Quantum systems ( Open Quantum Systems ) and the quantum to classical transition for classically nonlinear systems. Then, I worked on a cross-platform desktop app and a python package which contained implementations of algorithms usefull for studying piecewise-smooth continuous systems.
   email: majumdar.sayantan [at] outlook [dot] com
   ext_url: https://sayantanmajumdar.gitlab.io
   cv_pdf: "/people_pdfs/sayantan_resume.pdf"
@@ -32,7 +32,7 @@
  
  
 - name: Subhayu Bagchi
-  category: masters
+  category: masters (Integrated PhD student)
   img_url: "/images/people_img/subhayu.png"
   description: I primarily work in the post-Newtonian formalism using the General Relativistic model of gravitational system. Tell-tale signs of non-linearity, in the form of quasi-periodic or multi-periodic orbits around black hole systems are the focus of my work. Geodesic equations are taken as the basis and hence, this involves heavy computational work. I intend to extend my work into numerical relativity in the coming days, analyzing compact binary systems.<br><br>After completing my preliminary school education, I received my Bachelor’s Degree in Technology, specializing in Electronics and Communications. I have an ardent interest in diverse areas like Internet of Things, Machine Learning and Neural Networks, as well as Artificial Intelligence of game playing bots. Other than this, I am a puzzles and games aficionado and a competitive quizzer.
   email: sb15ip007@iiserkol.ac.in
@@ -54,7 +54,7 @@
   ext_url:
   
 - name: Dhrubajyoti Mandal
-  category: phds
+  category: alumni
   img_url: 
   description: My research interests lie in the dynamics of piecewise smooth maps. I have been awarded the CSIR-UGC NET Junior Research Fellowship and the IISER-Kolkata Institute Fellowship for pursuing my PhD. 
   email: dmandal93@gmail.com
