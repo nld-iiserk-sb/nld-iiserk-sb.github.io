@@ -1,4 +1,15 @@
 - authors:
+    - author: "Soumyajit Seth"
+    - author: "Soumitro Banerjee"
+  title: "Experimental Observation of Multiple Attractor Bifurcation in an Electronic Circuit"
+  journal: "IEEE Transactions on Circuits and Systems II: Express Briefs"
+  volume: "65"
+  pages: "1254-1258"
+  date: "2018"
+
+
+
+- authors:
     - author: "M. Patra"
     - author: "S. Banerjee" 
   title: "Bifurcation of Quasiperiodic Orbit in a 3D Piecewise Linear Map"
@@ -27,13 +38,4 @@
   volume: "27"
   no: 1
   pages: "1750008"
-  date: "2017"
-  
-- authors:
-    - author: "D. Mandal"
-    - author: "S. Banerjee"
-  title: "Effect of stochastically moving border on basins of attraction in a class of piecewise smooth maps"
-  journal: "Physics Letters A"
-  volume: "381"
-  pages: "2161-2166"
   date: "2017"
