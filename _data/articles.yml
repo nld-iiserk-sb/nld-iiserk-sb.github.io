@@ -1,4 +1,13 @@
 - authors:
+    - author: "Bichitra Kumar Lenka"
+  title: "Fractional comparison method and asymptotic stability results for multivariable fractional order systems"
+  journal: "Communications in Nonlinear Science and Numerical Simulation"
+  volume: "69"
+  pages: "398-415"
+  date: "2019"
+
+
+- authors:
     - author: "Mahashweta Patra"
     - author: "Soumitro Banerjee"
   title: "Robust chaos in 3-D piecewise linear maps"
@@ -14,6 +23,16 @@
   journal: "International Journal of Bifurcation and Chaos"
   volume: "28"
   pages: "1830032"
+  date: "2018"
+
+
+- authors:
+    - author: "Bichitra Lenka"
+    - author: "Soumitro Banerjee"
+  title: "Sufficient conditions for asymptotic stability and stabilization of autonomous fractional order systems"
+  journal: "Communications in Nonlinear Science and Numerical Simulation"
+  volume: "56"
+  pages: "365-379"
   date: "2018"
 
 
