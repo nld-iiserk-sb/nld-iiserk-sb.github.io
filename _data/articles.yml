@@ -1,4 +1,24 @@
 - authors:
+    - author: "Mahashweta Patra"
+    - author: "Soumitro Banerjee"
+  title: "Robust chaos in 3-D piecewise linear maps"
+  journal: "Chaos: An Interdisciplinary Journal of Nonlinear Science"
+  volume: "28"
+  pages: "123101"
+  date: "2018"
+  
+  
+  - authors:
+    - author: "Mahashweta Patra"
+    - author: 
+  title: "Multiple Attractor Bifurcation in Three-dimensional Piecewise Linear Maps"
+  journal: "International Journal of Bifurcation and Chaos"
+  volume: "28"
+  pages: "1830032"
+  date: "2018"
+
+
+- authors:
     - author: "Soumyajit Seth"
     - author: "Soumitro Banerjee"
   title: "Experimental Observation of Multiple Attractor Bifurcation in an Electronic Circuit"
