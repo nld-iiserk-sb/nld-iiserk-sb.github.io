@@ -39,7 +39,7 @@
   ext_url: http://www.subhayu.com
   
   
-  - name: Abhijit Bera
+- name: Abhijit Bera
   category: masters
   img_url: "/images/people_img/AbhijitBera_photo.jpg"
   description: My research interest lies on investigating different nonlinear phenomena in memristor circuit. Currently, I am involved to implement memristor circuit with a vacuum triode.
@@ -47,7 +47,7 @@
   ext_url:
   
   
-  - name: Atrayee Sarkar
+- name: Atrayee Sarkar
   category: masters
   img_url: "/images/people_img/atryee_photo.jpg"
   description: I am a final year integrated BS-MS student of IISER Kolkata. My primary interest lies in computational works on Nonlinear dynamics.<br><br>Currently I am working on developing a new technique to compute stable manifolds in 2D and 3D invertible and non-invertible maps. 
