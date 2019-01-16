@@ -68,18 +68,8 @@ img {
 }
 
 .img-circle {
-  position: relative;
-  width: 250px;
-  height: 250px;
-  overflow: hidden;
-  border-radius: 50%;
+        border-radius: 50%;
 }
-
-.img-circle img {
-  width: 100%;
-  height: auto;
-}
-
 
 ol, ul {
 	list-style: none;
