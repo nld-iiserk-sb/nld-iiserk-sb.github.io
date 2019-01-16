@@ -65,13 +65,12 @@ footer, header, hgroup, menu, nav, section {
 
 img {
 	vertical-align: middle;
-	width: 100%;
-	height: auto;
 }
+
 .img-circle {
   position: relative;
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   overflow: hidden;
   border-radius: 50%;
 }
