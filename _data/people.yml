@@ -5,6 +5,20 @@
   email: soumitro@iiserkol.ac.in
   ext_url: http://www.researcherid.com/rid/F-8162-2011
 
+- name: Prateek Jeware
+  category: masters
+  img_url: "/images/people_img/prateek.jpg"
+  description:
+  email:
+  ext_url:  
+
+- name: Debajyoti Guha
+  category: phds
+  img_url: "/images/people_img/debajyoti.jpg"
+  description: 
+  email: 
+  ext_url:  
+
 - name: Poornima Ramesh
   category: alumni
   img_url: "/images/people_img/poornima.jpg"
@@ -32,7 +46,7 @@
  
  
 - name: Subhayu Bagchi
-  category: masters
+  category: alumni
   img_url: "/images/people_img/subhayu.jpg"
   description: My primary area of interest is the dynamics in curved spacetime. Tell-tale signs of non-linearity, in the form of quasi-periodic or multi-periodic orbits around black hole systems are the focus of my work. Geodesic equations in the strong-field limit of General Relativity are taken as the basis and hence, this involves heavy computational work.<br><br>I am currently exploring the quasinormal modes of black holes and their relationship to the corresponding null geodesics. I intend to extend my work into numerical relativity in the coming days, analyzing compact binary systems. For more details, please visit my webpage.<br><br>After completing my preliminary school education, I received my Bachelor’s Degree in Technology, specializing in Electronics and Communications. I have an ardent interest in diverse areas like Internet of Things, Machine Learning and Neural Networks, as well as Artificial Intelligence of game playing bots. Other than this, I am a puzzles and games aficionado and a competitive quizzer.
   email: sb15ip007@iiserkol.ac.in, iamsubhayu@gmail.com
@@ -41,7 +55,7 @@
   
 
 - name: Abhijit Bera
-  category: masters
+  category: alumni
   img_url: "/images/people_img/AbhijitBera_photo.jpg"
   description: My research interest lies on investigating different nonlinear phenomena in memristor circuit. Currently, I am involved to implement memristor circuit with a vacuum triode.
   email: ab14ms131@iiserkol.ac.in
@@ -50,14 +64,14 @@
 
 
 - name: Atrayee Sarkar
-  category: masters
+  category: alumni
   img_url: "/images/people_img/atryee_photo.JPG"
   description: I am a final year integrated BS-MS student in physics department. My primary interest lies in computational aspects on nonlinear dynamics.<br><br>Currently, I am working on developing a new technique to compute stable manifolds in 2D and 3D invertable and non-invertable maps.
   email: as14ms027@iiserkol.ac.in
   ext_url:
   
 - name: Mahashweta Patra
-  category: phds
+  category: alumni
   img_url: "/images/people_img/mahashweta.jpg"
   description: I received my B.Sc degree in Physics from Visa-Bharati University in 2012. I am a 6th year Integrated PhD student in IISER-Kolkata.<br><br>I am mainly interested in three dimensional piecewise smooth systems. Systems that are not smooth can undergo bifurcations that are forbidden in smooth systems, such as border collision bifurcations and robust chaos. I have also studied synchronization in periodic oscillators.
   email: mp12ip005@iiserkol.ac.in
@@ -78,7 +92,7 @@
   ext_url:
   
 - name: Bichitra Kumar Lenka
-  category: phds
+  category: alumni
   img_url: "/images/people_img/Bichitra_photo.jpg"
   description: My research interests lie in fractional order ordinary differential equations. 
   email: bichitra.lenka99@gmail.com
